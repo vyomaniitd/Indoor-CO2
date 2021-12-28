@@ -17,6 +17,9 @@ Code
 --------------
 Download and install the SCD4x library [SCD4x_Arduino_Library-main] from the repository.  Copy the code from SCD41_Basic and upload it in your UNO, and that's it. You can see the data flowing in your serial monitor. 
 
+![Screenshot 2021-12-28 001538](https://user-images.githubusercontent.com/96729158/147528861-be909d62-702c-4dc3-99ce-56a0d9ba2360.png)
+
+
 
 Documentation
 --------------
