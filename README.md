@@ -6,3 +6,5 @@ The SCD41 from Sensirion is a high quality Photoacoustic based CO₂ sensor capa
 
 Note: The SCD41 has an automatic self-calibration routine. Sensirion recommends 7 days of continuous readings with at least 1 hour a day of 'fresh air' for self-calibration to complete.
 
+**Wiring**
+![UNO](https://user-images.githubusercontent.com/96729158/147523812-1693865d-aabd-4736-85bf-a86367ae3237.png)
