@@ -15,6 +15,7 @@ Please note that the sensor is not 5V tolerant. Use only 3.3V for powering the s
 
 Code
 --------------
+Download and install the SCD4x library from the repository.  Copy the code from SCD41_Basic and upload it in your UNO, and that's it. You can see the data flowing in your serial monitor. 
 
 
 Documentation
