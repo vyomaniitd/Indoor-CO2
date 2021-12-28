@@ -12,3 +12,8 @@ Note: The SCD41 has an automatic self-calibration routine. Sensirion recommends 
 Please note that the sensor is not 5V tolerant. Use only 3.3V for powering the sensor.
 
 ***Code:***
+
+Documentation
+--------------
+
+* **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
