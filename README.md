@@ -10,3 +10,5 @@ Note: The SCD41 has an automatic self-calibration routine. Sensirion recommends 
 ![UNO](https://user-images.githubusercontent.com/96729158/147523812-1693865d-aabd-4736-85bf-a86367ae3237.png)
 
 Please note that the sensor is not 5V tolerant. Use only 3.3V for powering the sensor.
+
+***Code:***
